@@ -1,6 +1,6 @@
 # project_login2explore
 Project Submission
-##"This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations."
+"This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations."
 Description:
 This project mainly focuses on using JsonPowerDB.Some of the features of JPDB are:
 1.JsonPowerDB is a Database Server with Developer friendly REST API services
